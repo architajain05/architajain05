@@ -55,12 +55,6 @@ A real-time AI system that detects objects in dynamic environments and triggers 
 
 ---
 
-## 📊 GitHub Stats
-
-![Archita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=architajain&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=architajain&layout=compact&theme=radical)  
-
----
 
 ## 📫 Contact & Links
 
